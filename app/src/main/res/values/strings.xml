@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bloom_room</string>
+    <string name="title_home">Home</string>
+    <string name="title_Shop">Dashboard</string>
+    <string name="title_Cart">Notifications</string>
+    <string name="title_activity_sign_up">signUp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
