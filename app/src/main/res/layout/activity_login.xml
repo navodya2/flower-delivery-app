@@ -140,7 +140,7 @@
         android:id="@+id/signuP"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="sigh up !"
+        android:text="sign up !"
         android:textAllCaps="false"
         android:textColor="#8E8D8D"
         app:layout_constraintBottom_toBottomOf="parent"
