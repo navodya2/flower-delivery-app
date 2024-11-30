@@ -9,11 +9,7 @@ Inventory Management: Administrators can add and manage flower inventory, includ
 Cash on Delivery: Payment is handled through cash on delivery, providing a convenient payment option for users.
 Technologies Used
 Java
-Android Studio
-Installation
-Clone the repository to your local machine.
-Open the project in Android Studio.
-Build and run the project on an Android device or emulator.
+
 Usage
 As an administrator:
 Log in to the admin panel. Admin username : admin Password : admin123
@@ -23,11 +19,3 @@ As a user:
 Browse available flowers.
 Select flowers to purchase.
 Place orders for delivery with cash on delivery payment.
-Contributing
-Contributions to Bloom Room are welcome! Please follow our contribution guidelines for details on how to contribute.
-
-License
-This project is licensed under the MIT License.
-
-Contact
-For support or inquiries, please contact Powsikan at powsi.info@gmail.com.
