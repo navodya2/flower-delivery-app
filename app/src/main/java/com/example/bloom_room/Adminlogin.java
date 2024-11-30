@@ -76,11 +76,6 @@ public class Adminlogin extends AppCompatActivity {
 
                 }
             }
-
-
         });
-
-
-
     }
 }

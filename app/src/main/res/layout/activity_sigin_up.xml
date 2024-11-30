@@ -197,7 +197,7 @@
         android:id="@+id/signiN"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Already have an account ? sigin"
+        android:text="Already have an account ? Login"
         android:textColor="#8E8D8D"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
