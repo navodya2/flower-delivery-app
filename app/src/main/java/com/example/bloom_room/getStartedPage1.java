@@ -23,15 +23,13 @@ public class getStartedPage1 extends AppCompatActivity {
         nxtbutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent nextpage = new Intent(getApplicationContext(), chooseRole.class);
+                Intent nextpage = new Intent(getApplicationContext(), getStartedPage2.class);
                 startActivity(nextpage);
 
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
 
             }
         });
-
-
 
         sKip.setOnClickListener(new View.OnClickListener() {
             @Override
